@@ -1,0 +1,101 @@
+EmployeeID,Name,Age,Gender,DepartmentID,JobRole,MonthlyIncome,YearsAtCompany,JobSatisfaction,WorkLifeBalance
+1001,Employee_1,29,Female,D01,Sales Executive,4923,3,3,1
+1002,Employee_2,54,Male,D02,Data Scientist,11476,5,2,2
+1003,Employee_3,25,Female,D02,Data Scientist,5421,13,4,1
+1004,Employee_4,39,Male,D03,Sales Executive,5050,2,1,2
+1005,Employee_5,34,Male,D04,Developer,6180,4,1,2
+1006,Employee_6,26,Male,D03,Developer,7878,13,1,4
+1007,Employee_7,38,Male,D02,Sales Executive,6204,10,1,3
+1008,Employee_8,36,Male,D04,Sales Executive,11719,5,1,4
+1009,Employee_9,24,Male,D01,HR Manager,6856,1,3,4
+1010,Employee_10,24,Male,D02,HR Manager,4757,1,2,2
+1011,Employee_11,27,Male,D02,HR Manager,9022,4,2,3
+1012,Employee_12,27,Female,D01,Data Scientist,7842,1,3,1
+1013,Employee_13,46,Other,D04,Data Scientist,5326,12,1,3
+1014,Employee_14,37,Female,D01,HR Manager,11833,6,3,1
+1015,Employee_15,24,Male,D02,Data Scientist,9968,1,4,2
+1016,Employee_16,35,Female,D03,HR Manager,3676,4,3,3
+1017,Employee_17,52,Male,D02,Data Scientist,4976,4,3,3
+1018,Employee_18,42,Female,D04,HR Manager,8792,7,3,1
+1019,Employee_19,39,Male,D01,Data Scientist,5090,3,4,3
+1020,Employee_20,25,Male,D04,HR Manager,8020,8,2,1
+1021,Employee_21,35,Female,D03,Developer,9883,5,1,4
+1022,Employee_22,47,Male,D03,Developer,6560,7,3,1
+1023,Employee_23,53,Female,D02,HR Manager,7454,9,4,3
+1024,Employee_24,33,Male,D01,Data Scientist,6915,13,3,2
+1025,Employee_25,28,Female,D04,Data Scientist,10791,13,2,3
+1026,Employee_26,34,Male,D03,Sales Executive,3173,6,3,4
+1027,Employee_27,30,Female,D02,Developer,10229,3,3,3
+1028,Employee_28,24,Male,D01,Data Scientist,11099,5,3,4
+1029,Employee_29,38,Female,D03,Sales Executive,10981,11,2,3
+1030,Employee_30,39,Female,D02,Developer,3802,6,1,4
+1031,Employee_31,43,Male,D01,Developer,4268,10,2,2
+1032,Employee_32,37,Male,D02,HR Manager,7424,10,2,1
+1033,Employee_33,50,Female,D03,Data Scientist,9360,14,4,3
+1034,Employee_34,31,Female,D02,Sales Executive,8030,10,3,4
+1035,Employee_35,39,Male,D02,Data Scientist,10815,5,4,4
+1036,Employee_36,36,Male,D03,Data Scientist,5016,12,2,2
+1037,Employee_37,42,Female,D01,HR Manager,6895,2,1,2
+1038,Employee_38,50,Male,D03,Data Scientist,3861,14,2,3
+1039,Employee_39,46,Other,D03,Sales Executive,7479,3,1,2
+1040,Employee_40,37,Female,D03,Data Scientist,9403,11,2,4
+1041,Employee_41,29,Male,D04,Data Scientist,8991,14,3,2
+1042,Employee_42,48,Female,D03,Sales Executive,3009,6,4,3
+1043,Employee_43,24,Female,D03,HR Manager,4249,9,3,3
+1044,Employee_44,49,Male,D03,HR Manager,7315,10,2,1
+1045,Employee_45,44,Other,D01,Data Scientist,10772,14,3,1
+1046,Employee_46,34,Female,D03,HR Manager,4781,1,1,3
+1047,Employee_47,42,Male,D04,HR Manager,5501,9,2,1
+1048,Employee_48,38,Female,D01,HR Manager,5352,11,2,1
+1049,Employee_49,28,Male,D02,Developer,6848,10,1,1
+1050,Employee_50,47,Female,D01,HR Manager,6010,6,4,2
+1051,Employee_51,47,Female,D03,Developer,3184,14,2,1
+1052,Employee_52,37,Male,D04,Sales Executive,8598,1,4,4
+1053,Employee_53,33,Male,D04,HR Manager,4478,13,1,1
+1054,Employee_54,38,Male,D03,Developer,11606,7,2,2
+1055,Employee_55,26,Male,D04,Sales Executive,5132,6,3,1
+1056,Employee_56,47,Male,D04,Developer,10928,11,2,3
+1057,Employee_57,42,Female,D02,Data Scientist,8891,1,4,1
+1058,Employee_58,31,Female,D02,Data Scientist,4289,9,2,3
+1059,Employee_59,40,Female,D02,Developer,3651,13,1,2
+1060,Employee_60,46,Male,D01,Developer,7088,9,3,3
+1061,Employee_61,44,Other,D02,HR Manager,4387,5,2,3
+1062,Employee_62,37,Female,D03,Developer,9202,5,1,1
+1063,Employee_63,24,Female,D04,Developer,11927,6,4,2
+1064,Employee_64,29,Female,D03,Developer,3563,12,4,1
+1065,Employee_65,24,Female,D02,Data Scientist,4691,6,3,3
+1066,Employee_66,27,Female,D02,Developer,11736,4,1,3
+1067,Employee_67,36,Female,D03,Developer,9369,2,2,4
+1068,Employee_68,45,Female,D03,Developer,6661,4,3,3
+1069,Employee_69,54,Male,D04,Sales Executive,10142,7,4,4
+1070,Employee_70,40,Female,D02,Developer,5222,4,3,3
+1071,Employee_71,39,Other,D02,Sales Executive,8628,3,3,2
+1072,Employee_72,25,Female,D01,HR Manager,4030,13,3,3
+1073,Employee_73,35,Female,D02,Sales Executive,4735,12,3,4
+1074,Employee_74,48,Other,D04,Sales Executive,11415,8,1,4
+1075,Employee_75,26,Male,D04,HR Manager,4499,4,3,1
+1076,Employee_76,30,Other,D04,Developer,4248,8,2,3
+1077,Employee_77,31,Male,D01,Sales Executive,3141,5,3,4
+1078,Employee_78,40,Female,D04,HR Manager,3332,2,4,2
+1079,Employee_79,40,Male,D02,Sales Executive,5588,8,4,2
+1080,Employee_80,28,Female,D04,Sales Executive,10339,4,3,3
+1081,Employee_81,53,Female,D01,HR Manager,9821,7,2,3
+1082,Employee_82,36,Female,D02,Developer,9465,9,1,1
+1083,Employee_83,49,Male,D02,Sales Executive,4125,12,1,2
+1084,Employee_84,34,Male,D04,Developer,10469,2,4,4
+1085,Employee_85,53,Male,D02,HR Manager,10545,7,3,2
+1086,Employee_86,26,Male,D02,HR Manager,6608,9,4,2
+1087,Employee_87,32,Female,D04,HR Manager,7847,3,4,4
+1088,Employee_88,24,Male,D01,HR Manager,11047,10,1,2
+1089,Employee_89,53,Male,D03,Developer,3229,1,4,1
+1090,Employee_90,30,Female,D04,HR Manager,6577,14,3,3
+1091,Employee_91,41,Male,D03,Data Scientist,8013,8,3,2
+1092,Employee_92,46,Male,D03,HR Manager,10385,6,2,3
+1093,Employee_93,37,Other,D03,Developer,7796,12,2,4
+1094,Employee_94,40,Male,D04,HR Manager,7756,2,4,3
+1095,Employee_95,34,Male,D03,Data Scientist,9120,14,4,1
+1096,Employee_96,42,Female,D03,Sales Executive,7881,7,1,4
+1097,Employee_97,41,Male,D03,Sales Executive,6082,6,4,4
+1098,Employee_98,50,Female,D04,Sales Executive,9587,14,2,1
+1099,Employee_99,24,Male,D02,Developer,7422,8,1,2
+1100,Employee_100,45,Male,D02,HR Manager,3636,6,2,4

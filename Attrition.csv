@@ -1,0 +1,101 @@
+EmployeeID,Attrition,ReasonForLeaving,ExitInterviewScore
+1001,No,Relocation,3
+1002,Yes,Relocation,4
+1003,Yes,Relocation,4
+1004,No,Relocation,2
+1005,No,Career Growth,2
+1006,No,Low Pay,4
+1007,No,Workload,5
+1008,No,Relocation,5
+1009,No,Workload,1
+1010,Yes,Career Growth,5
+1011,No,Low Pay,2
+1012,No,Better Offer,4
+1013,No,N/A,3
+1014,No,Workload,3
+1015,No,Career Growth,5
+1016,Yes,N/A,2
+1017,No,Workload,3
+1018,Yes,Relocation,2
+1019,No,Relocation,2
+1020,Yes,Workload,2
+1021,No,Relocation,1
+1022,Yes,Workload,5
+1023,Yes,Career Growth,5
+1024,Yes,N/A,2
+1025,No,Relocation,3
+1026,No,Workload,4
+1027,No,Career Growth,2
+1028,No,Low Pay,4
+1029,Yes,Better Offer,4
+1030,No,Relocation,2
+1031,No,Low Pay,2
+1032,Yes,Career Growth,2
+1033,No,Workload,2
+1034,Yes,Relocation,3
+1035,No,Low Pay,3
+1036,No,Low Pay,4
+1037,No,Low Pay,3
+1038,No,Low Pay,5
+1039,Yes,Low Pay,4
+1040,No,N/A,4
+1041,No,Workload,1
+1042,No,Workload,5
+1043,Yes,Relocation,3
+1044,Yes,Workload,3
+1045,No,Relocation,1
+1046,Yes,Better Offer,4
+1047,No,Career Growth,2
+1048,No,Career Growth,4
+1049,No,N/A,1
+1050,No,Better Offer,2
+1051,Yes,Workload,3
+1052,No,Better Offer,2
+1053,No,Relocation,1
+1054,No,Relocation,4
+1055,No,Better Offer,1
+1056,No,N/A,3
+1057,No,N/A,2
+1058,No,Relocation,3
+1059,No,Better Offer,1
+1060,Yes,Career Growth,4
+1061,No,Better Offer,4
+1062,No,Relocation,2
+1063,Yes,Relocation,4
+1064,Yes,Better Offer,3
+1065,No,Relocation,4
+1066,Yes,Workload,2
+1067,Yes,Workload,5
+1068,No,Workload,5
+1069,No,Workload,4
+1070,No,Low Pay,3
+1071,No,Relocation,4
+1072,No,Career Growth,5
+1073,No,Better Offer,1
+1074,Yes,N/A,3
+1075,No,Low Pay,5
+1076,No,Relocation,3
+1077,No,Low Pay,5
+1078,No,Career Growth,2
+1079,No,Low Pay,1
+1080,No,Better Offer,3
+1081,Yes,Career Growth,5
+1082,No,Relocation,3
+1083,Yes,Low Pay,4
+1084,No,Workload,4
+1085,Yes,Relocation,3
+1086,No,Workload,2
+1087,Yes,Career Growth,1
+1088,No,Better Offer,2
+1089,No,N/A,4
+1090,No,Career Growth,5
+1091,No,Workload,5
+1092,No,Low Pay,4
+1093,No,Career Growth,4
+1094,No,Career Growth,4
+1095,No,Better Offer,3
+1096,No,Workload,4
+1097,No,Career Growth,1
+1098,No,N/A,1
+1099,No,Relocation,4
+1100,Yes,Low Pay,2
