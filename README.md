@@ -1,4 +1,3 @@
-# Power-BI-Project-1
 Project Title: Employee Attrition Analysis in a Multinational Corporation (MNC)
 
 📌 Overview
