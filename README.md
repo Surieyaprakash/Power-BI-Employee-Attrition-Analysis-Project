@@ -42,9 +42,6 @@ Simulated HR datasets include:
 - Employees.csv – Core employee details
 - Attrition.csv – Attrition status and exit reason
 - Departments.csv – Department metadata
-- Satisfaction.csv – Job satisfaction and work-life balance scores
-- ExitInterviews.csv – Department-level exit feedback
-- Generated with 100+ employee records
 
 Note: All data is fictional and generated for educational purposes.
 
